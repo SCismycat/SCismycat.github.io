@@ -1,5 +1,5 @@
 # Site settings
-title: Soft Blog
+title: NLPer Blog
 SEOTitle: Leslee's Home | NLPer Blog
 header-img: img/post-bg-keybord.jpg
 email: flytoskye@163.com
@@ -103,13 +103,13 @@ friends: [
         href: "https://github.com/SCismycat"
     },{
         title: "boot社区",
+        href: "https://www.hiboot.com"
+    },{
+        title: "NLP",
         href: ""
     },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Word2Vec",
+        href: ""
     }
 ]
 

@@ -1,13 +1,13 @@
 {
-  "name": "Soft Blog",
-  "short_name": "Soft Blog",
+  "name": "NLPer Blog",
+  "short_name": "NLPer Blog",
   "description": "fouces on NLP",
   "icons": [{
-    "src": "icon.png",
+    "src": "pwa/icon.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icon.png",
+    "src": "pwa/icon.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
